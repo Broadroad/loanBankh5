@@ -1,6 +1,6 @@
 <template>
   <div class="u-content" id="login">
-    <img src="../assets/banner.png">
+    <img src="../assets/banner.jpeg">
     <div class="u-login">
       <img src="../assets/login.png">
 
